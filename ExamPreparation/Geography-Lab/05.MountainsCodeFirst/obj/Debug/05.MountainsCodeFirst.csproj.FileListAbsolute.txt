@@ -1,0 +1,11 @@
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\05.MountainsCodeFirst\bin\Debug\05.MountainsCodeFirst.exe.config
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\05.MountainsCodeFirst\bin\Debug\05.MountainsCodeFirst.exe.config
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\05.MountainsCodeFirst\bin\Debug\05.MountainsCodeFirst.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\05.MountainsCodeFirst\bin\Debug\05.MountainsCodeFirst.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\05.MountainsCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\05.MountainsCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\05.MountainsCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\05.MountainsCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\05.MountainsCodeFirst\obj\Debug\05.MountainsCodeFirst.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\05.MountainsCodeFirst\obj\Debug\05.MountainsCodeFirst.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\05.MountainsCodeFirst\obj\Debug\05.MountainsCodeFirst.csprojResolveAssemblyReference.cache

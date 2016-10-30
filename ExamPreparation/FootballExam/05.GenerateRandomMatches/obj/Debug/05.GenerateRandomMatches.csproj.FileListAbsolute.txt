@@ -1,0 +1,11 @@
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\bin\Debug\05.GenerateRandomMatches.exe.config
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\bin\Debug\05.GenerateRandomMatches.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\bin\Debug\05.GenerateRandomMatches.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\bin\Debug\01.DatabaseFirst.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\bin\Debug\EntityFramework.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\bin\Debug\01.DatabaseFirst.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\bin\Debug\EntityFramework.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\obj\Debug\05.GenerateRandomMatches.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\05.GenerateRandomMatches\obj\Debug\05.GenerateRandomMatches.pdb

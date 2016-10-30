@@ -1,0 +1,1 @@
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\07.ImportContactFromJson\bin\Debug\07.ImportContactFromJson.exe.config

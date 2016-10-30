@@ -1,0 +1,12 @@
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\bin\Debug\03.ExportMatchesToXml.exe.config
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\bin\Debug\03.ExportMatchesToXml.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\bin\Debug\03.ExportMatchesToXml.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\bin\Debug\01.DatabaseFirst.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\bin\Debug\EntityFramework.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\bin\Debug\01.DatabaseFirst.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\bin\Debug\EntityFramework.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\obj\Debug\03.ExportMatchesToXml.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\obj\Debug\03.ExportMatchesToXml.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\03.ExportMatchesToXml\obj\Debug\03.ExportMatchesToXml.pdb

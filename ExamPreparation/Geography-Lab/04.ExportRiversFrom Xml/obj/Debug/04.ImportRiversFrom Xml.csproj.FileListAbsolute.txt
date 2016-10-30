@@ -1,0 +1,24 @@
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\04.ExportRiversFrom Xml.exe.config
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\04.ExportRiversFrom Xml.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\04.ExportRiversFrom Xml.pdb
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\01.EF-Mappings.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\EntityFramework.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\01.EF-Mappings.pdb
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\EntityFramework.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\obj\Debug\04.ImportRiversFrom Xml.csprojResolveAssemblyReference.cache
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\obj\Debug\04.ExportRiversFrom Xml.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\04.ExportRiversFrom Xml\obj\Debug\04.ExportRiversFrom Xml.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\04.ExportRiversFrom Xml.exe.config
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\04.ExportRiversFrom Xml.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\04.ExportRiversFrom Xml.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\01.EF-Mappings.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\EntityFramework.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\01.EF-Mappings.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\EntityFramework.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\obj\Debug\04.ImportRiversFrom Xml.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\obj\Debug\04.ExportRiversFrom Xml.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\04.ExportRiversFrom Xml\obj\Debug\04.ExportRiversFrom Xml.pdb

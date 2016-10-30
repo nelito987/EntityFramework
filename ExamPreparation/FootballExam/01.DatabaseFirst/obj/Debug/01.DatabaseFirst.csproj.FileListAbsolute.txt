@@ -1,0 +1,10 @@
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\01.DatabaseFirst\bin\Debug\01.DatabaseFirst.exe.config
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\01.DatabaseFirst\bin\Debug\01.DatabaseFirst.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\01.DatabaseFirst\bin\Debug\01.DatabaseFirst.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\01.DatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\01.DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\01.DatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\01.DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\01.DatabaseFirst\obj\Debug\01.DatabaseFirst.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\01.DatabaseFirst\obj\Debug\01.DatabaseFirst.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\01.DatabaseFirst\obj\Debug\01.DatabaseFirst.pdb

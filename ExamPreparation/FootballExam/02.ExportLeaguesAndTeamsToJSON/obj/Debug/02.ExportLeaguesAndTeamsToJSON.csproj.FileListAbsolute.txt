@@ -1,0 +1,12 @@
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\bin\Debug\02.ExportLeaguesAndTeamsToJSON.exe.config
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\bin\Debug\02.ExportLeaguesAndTeamsToJSON.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\bin\Debug\02.ExportLeaguesAndTeamsToJSON.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\bin\Debug\01.DatabaseFirst.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\bin\Debug\EntityFramework.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\bin\Debug\01.DatabaseFirst.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\bin\Debug\EntityFramework.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\obj\Debug\02.ExportLeaguesAndTeamsToJSON.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\obj\Debug\02.ExportLeaguesAndTeamsToJSON.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\02.ExportLeaguesAndTeamsToJSON\obj\Debug\02.ExportLeaguesAndTeamsToJSON.pdb

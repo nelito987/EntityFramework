@@ -1,0 +1,24 @@
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\ExportMonasteriesByCountryXml.exe.config
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\ExportMonasteriesByCountryXml.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\ExportMonasteriesByCountryXml.pdb
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\01.EF-Mappings.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\EntityFramework.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\01.EF-Mappings.pdb
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\EntityFramework.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\obj\Debug\03.ExportMonasteriesByCountryXml.csprojResolveAssemblyReference.cache
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\obj\Debug\ExportMonasteriesByCountryXml.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Geography-Lab\ExportMonasteriesByCountryXml\obj\Debug\ExportMonasteriesByCountryXml.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\ExportMonasteriesByCountryXml.exe.config
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\ExportMonasteriesByCountryXml.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\ExportMonasteriesByCountryXml.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\01.EF-Mappings.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\EntityFramework.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\01.EF-Mappings.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\EntityFramework.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\obj\Debug\03.ExportMonasteriesByCountryXml.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\obj\Debug\ExportMonasteriesByCountryXml.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\Geography-Lab\ExportMonasteriesByCountryXml\obj\Debug\ExportMonasteriesByCountryXml.pdb

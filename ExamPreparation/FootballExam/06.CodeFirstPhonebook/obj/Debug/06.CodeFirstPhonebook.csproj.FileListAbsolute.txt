@@ -1,0 +1,10 @@
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\06.CodeFirstPhonebook\bin\Debug\06.CodeFirstPhonebook.exe.config
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\06.CodeFirstPhonebook\bin\Debug\06.CodeFirstPhonebook.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\06.CodeFirstPhonebook\bin\Debug\06.CodeFirstPhonebook.pdb
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\06.CodeFirstPhonebook\bin\Debug\EntityFramework.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\06.CodeFirstPhonebook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\06.CodeFirstPhonebook\bin\Debug\EntityFramework.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\06.CodeFirstPhonebook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\06.CodeFirstPhonebook\obj\Debug\06.CodeFirstPhonebook.csprojResolveAssemblyReference.cache
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\06.CodeFirstPhonebook\obj\Debug\06.CodeFirstPhonebook.exe
+C:\Users\Neli\Desktop\SoftUni\EntityFramework\FootballExam\06.CodeFirstPhonebook\obj\Debug\06.CodeFirstPhonebook.pdb
