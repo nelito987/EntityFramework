@@ -1,0 +1,10 @@
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\Photography_ExamPreparation\bin\Debug\Photography_ExamPreparation.exe.config
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\Photography_ExamPreparation\bin\Debug\Photography_ExamPreparation.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\Photography_ExamPreparation\bin\Debug\Photography_ExamPreparation.pdb
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\Photography_ExamPreparation\bin\Debug\EntityFramework.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\Photography_ExamPreparation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\Photography_ExamPreparation\bin\Debug\EntityFramework.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\Photography_ExamPreparation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\Photography_ExamPreparation\obj\Debug\Photography_ExamPreparation.csprojResolveAssemblyReference.cache
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\Photography_ExamPreparation\obj\Debug\Photography_ExamPreparation.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\Photography_ExamPreparation\obj\Debug\Photography_ExamPreparation.pdb

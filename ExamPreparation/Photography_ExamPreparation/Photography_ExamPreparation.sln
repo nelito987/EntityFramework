@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photography_ExamPreparation", "Photography_ExamPreparation\Photography_ExamPreparation.csproj", "{3BD6E003-EA2A-4E28-8D27-DEEFB6A0ECDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ManufacturersAndCamerasAsJson", "2.ManufacturersAndCamerasAsJson\2.ManufacturersAndCamerasAsJson.csproj", "{2A4939B6-FF81-4431-9E81-ACF850223CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.ExportPhotographsAsXml", "3.ExportPhotographsAsXml\3.ExportPhotographsAsXml.csproj", "{1784CE91-E67E-4CF2-BD70-B2807841C31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.ImportManufacturersAndLensesFromXml", "4.ImportManufacturersAndLensesFromXml\4.ImportManufacturersAndLensesFromXml.csproj", "{2EDCEA58-35AD-4F67-B2F7-1A8B35CAD528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.GenerateRandomEquipment", "5.GenerateRandomEquipment\5.GenerateRandomEquipment.csproj", "{71BD36E3-12E1-4818-9938-2F48A52342F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.PhonebookCodeFirst", "6.PhonebookCodeFirst\6.PhonebookCodeFirst.csproj", "{49E6EA7B-D0E7-4D15-A83E-AE2AE91B4E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.ImportUserMessagesFromJson", "7.ImportUserMessagesFromJson\7.ImportUserMessagesFromJson.csproj", "{E0A383F7-2FB0-4BCE-BC9A-B449B1B72C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD6E003-EA2A-4E28-8D27-DEEFB6A0ECDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD6E003-EA2A-4E28-8D27-DEEFB6A0ECDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD6E003-EA2A-4E28-8D27-DEEFB6A0ECDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD6E003-EA2A-4E28-8D27-DEEFB6A0ECDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4939B6-FF81-4431-9E81-ACF850223CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4939B6-FF81-4431-9E81-ACF850223CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4939B6-FF81-4431-9E81-ACF850223CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4939B6-FF81-4431-9E81-ACF850223CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1784CE91-E67E-4CF2-BD70-B2807841C31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1784CE91-E67E-4CF2-BD70-B2807841C31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1784CE91-E67E-4CF2-BD70-B2807841C31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1784CE91-E67E-4CF2-BD70-B2807841C31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDCEA58-35AD-4F67-B2F7-1A8B35CAD528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDCEA58-35AD-4F67-B2F7-1A8B35CAD528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDCEA58-35AD-4F67-B2F7-1A8B35CAD528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDCEA58-35AD-4F67-B2F7-1A8B35CAD528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71BD36E3-12E1-4818-9938-2F48A52342F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BD36E3-12E1-4818-9938-2F48A52342F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BD36E3-12E1-4818-9938-2F48A52342F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BD36E3-12E1-4818-9938-2F48A52342F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E6EA7B-D0E7-4D15-A83E-AE2AE91B4E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E6EA7B-D0E7-4D15-A83E-AE2AE91B4E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E6EA7B-D0E7-4D15-A83E-AE2AE91B4E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E6EA7B-D0E7-4D15-A83E-AE2AE91B4E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A383F7-2FB0-4BCE-BC9A-B449B1B72C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A383F7-2FB0-4BCE-BC9A-B449B1B72C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A383F7-2FB0-4BCE-BC9A-B449B1B72C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A383F7-2FB0-4BCE-BC9A-B449B1B72C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

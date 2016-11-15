@@ -1,0 +1,12 @@
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\bin\Debug\5.GenerateRandomEquipment.exe.config
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\bin\Debug\5.GenerateRandomEquipment.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\bin\Debug\5.GenerateRandomEquipment.pdb
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\bin\Debug\EntityFramework.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\bin\Debug\Photography_ExamPreparation.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\bin\Debug\Photography_ExamPreparation.pdb
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\bin\Debug\EntityFramework.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\obj\Debug\5.GenerateRandomEquipment.csprojResolveAssemblyReference.cache
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\obj\Debug\5.GenerateRandomEquipment.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\5.GenerateRandomEquipment\obj\Debug\5.GenerateRandomEquipment.pdb

@@ -1,0 +1,16 @@
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\7.ImportUserMessagesFromJson.exe.config
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\7.ImportUserMessagesFromJson.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\7.ImportUserMessagesFromJson.pdb
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\6.PhonebookCodeFirst.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\EntityFramework.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\Photography_ExamPreparation.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\6.PhonebookCodeFirst.pdb
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\Photography_ExamPreparation.pdb
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\EntityFramework.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\obj\Debug\7.ImportUserMessagesFromJson.csprojResolveAssemblyReference.cache
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\obj\Debug\7.ImportUserMessagesFromJson.exe
+C:\Users\kondo\documents\visual studio 2015\Projects\Photography_ExamPreparation\7.ImportUserMessagesFromJson\obj\Debug\7.ImportUserMessagesFromJson.pdb
