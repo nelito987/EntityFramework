@@ -1,0 +1,12 @@
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.dll
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.xml
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb

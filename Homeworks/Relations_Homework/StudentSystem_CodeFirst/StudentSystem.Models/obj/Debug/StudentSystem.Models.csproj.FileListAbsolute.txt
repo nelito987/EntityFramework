@@ -1,0 +1,4 @@
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+c:\users\kondo\documents\visual studio 2015\Projects\StudentSystem_CodeFirst\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

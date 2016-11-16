@@ -34,7 +34,10 @@ namespace BookShopSystemLab.ConsoleClient
             // The categories should be ordered by total book count. Only take the top 3 most recent books from each category
             // - ordered by date (descending), then by title (ascending). Select the category name, total book count and for each book 
             // - its title and release date.
-            MostRecentBooksByCategory(context);
+            //MostRecentBooksByCategory(context);
+
+            //7. - Related Books
+            GetRelatedBooks(context);
         }
 
         private static void GetAllBooksAfter2000(BookShopLabContext context)
@@ -127,6 +130,37 @@ namespace BookShopSystemLab.ConsoleClient
                 foreach (var book in books)
                 {
                     Console.WriteLine($"{book.Title} ({book.ReleaseDate.Value.Year})");
+                }
+            }
+        }
+
+        private static void GetRelatedBooks(BookShopLabContext context)
+        {
+            var books = context.Books
+                .Take(3)
+                .ToList();
+
+            books[0].RelatedBooks.Add(books[1]);
+            books[1].RelatedBooks.Add(books[0]);
+            books[0].RelatedBooks.Add(books[2]);
+            books[2].RelatedBooks.Add(books[0]);
+
+            context.SaveChanges();
+
+            var booksFromQuery = context.Books
+                .Select(b => new
+                {
+                    b.Title,
+                    relatedBooks = b.RelatedBooks
+                })
+                .Take(3);
+
+            foreach(var book in booksFromQuery)
+            {
+                Console.WriteLine("--{0}", book.Title);
+                foreach (var b in book.relatedBooks)
+                {
+                    Console.WriteLine(b.Title);
                 }
             }
         }

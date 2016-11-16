@@ -14,6 +14,7 @@ namespace BookShopSystemsLab.Models
         public Book()
         {
             this.categories = new HashSet<Category>();
+            this.RelatedBooks = new HashSet<Book>();
         }
 
         [Key]
@@ -51,5 +52,7 @@ namespace BookShopSystemsLab.Models
             get { return this.categories; }
             set { this.categories = value; }
         }
+
+        public virtual ICollection<Book> RelatedBooks { get; set; }
     }
 }
